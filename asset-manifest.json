@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/pas-choice/static/css/main.a7a58ed9.chunk.css",
-    "main.js": "/pas-choice/static/js/main.db611182.chunk.js",
-    "main.js.map": "/pas-choice/static/js/main.db611182.chunk.js.map",
-    "runtime-main.js": "/pas-choice/static/js/runtime-main.dc8abf34.js",
-    "runtime-main.js.map": "/pas-choice/static/js/runtime-main.dc8abf34.js.map",
-    "static/js/2.6d7cc326.chunk.js": "/pas-choice/static/js/2.6d7cc326.chunk.js",
-    "static/js/2.6d7cc326.chunk.js.map": "/pas-choice/static/js/2.6d7cc326.chunk.js.map",
-    "static/js/3.64414591.chunk.js": "/pas-choice/static/js/3.64414591.chunk.js",
-    "static/js/3.64414591.chunk.js.map": "/pas-choice/static/js/3.64414591.chunk.js.map",
-    "index.html": "/pas-choice/index.html",
-    "static/css/main.a7a58ed9.chunk.css.map": "/pas-choice/static/css/main.a7a58ed9.chunk.css.map",
-    "static/js/2.6d7cc326.chunk.js.LICENSE.txt": "/pas-choice/static/js/2.6d7cc326.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/pas-choice/static/media/Lato-Regular.9919edff.ttf",
-    "static/media/logo128.8fee95ef.png": "/pas-choice/static/media/logo128.8fee95ef.png",
-    "static/media/pas.eb349065.png": "/pas-choice/static/media/pas.eb349065.png"
+    "main.css": "/pas/static/css/main.915ec41b.chunk.css",
+    "main.js": "/pas/static/js/main.5e5b6657.chunk.js",
+    "main.js.map": "/pas/static/js/main.5e5b6657.chunk.js.map",
+    "runtime-main.js": "/pas/static/js/runtime-main.87608898.js",
+    "runtime-main.js.map": "/pas/static/js/runtime-main.87608898.js.map",
+    "static/js/2.5a6dd049.chunk.js": "/pas/static/js/2.5a6dd049.chunk.js",
+    "static/js/2.5a6dd049.chunk.js.map": "/pas/static/js/2.5a6dd049.chunk.js.map",
+    "static/js/3.77dc8e97.chunk.js": "/pas/static/js/3.77dc8e97.chunk.js",
+    "static/js/3.77dc8e97.chunk.js.map": "/pas/static/js/3.77dc8e97.chunk.js.map",
+    "index.html": "/pas/index.html",
+    "static/css/main.915ec41b.chunk.css.map": "/pas/static/css/main.915ec41b.chunk.css.map",
+    "static/js/2.5a6dd049.chunk.js.LICENSE.txt": "/pas/static/js/2.5a6dd049.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/pas/static/media/Lato-Regular.9919edff.ttf",
+    "static/media/logo128.8fee95ef.png": "/pas/static/media/logo128.8fee95ef.png",
+    "static/media/pas.eb349065.png": "/pas/static/media/pas.eb349065.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dc8abf34.js",
-    "static/js/2.6d7cc326.chunk.js",
-    "static/css/main.a7a58ed9.chunk.css",
-    "static/js/main.db611182.chunk.js"
+    "static/js/runtime-main.87608898.js",
+    "static/js/2.5a6dd049.chunk.js",
+    "static/css/main.915ec41b.chunk.css",
+    "static/js/main.5e5b6657.chunk.js"
   ]
 }
