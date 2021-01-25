@@ -34,4 +34,5 @@ const calcArgs = (score) => {
   return [AP1, AP2, AP3];
 };
 
-module.exports = calcArgs;
+// module.exports = calcArgs;
+export default calcArgs;

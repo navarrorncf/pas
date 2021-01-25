@@ -16,4 +16,5 @@ const calcCSS = (AF, min) => {
   }
 };
 
-module.exports = calcCSS;
+// module.exports = calcCSS;
+export default calcCSS;

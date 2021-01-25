@@ -8,4 +8,5 @@ const validateArr = (arr) => {
   return true;
 };
 
-module.exports = validateArr;
+// module.exports = validateArr;
+export default validateArr;

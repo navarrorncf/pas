@@ -1,4 +1,4 @@
-module.exports = {
+const medDev = {
   1: {
     li: [3.628, 2.687],
     lf: [4.034, 2.875],
@@ -21,3 +21,6 @@ module.exports = {
     red: [6.782, 1.738],
   },
 };
+
+// module.exports = medDev;
+export default medDev;
