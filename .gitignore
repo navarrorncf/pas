@@ -24,4 +24,3 @@ yarn-debug.log*
 yarn-error.log*
 
 # development test data
-/src/dev-data
