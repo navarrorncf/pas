@@ -1,0 +1,150 @@
+.majors {
+  width: 118rem;
+  margin: 2rem auto;
+
+  h2 {
+    font-weight: 300;
+    font-size: 5rem;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .headers {
+    background: #333;
+    color: #fff;
+    display: flex;
+    font-size: 1.8rem;
+  }
+
+  .header {
+    border: solid 1px #888;
+    text-align: center;
+  }
+}
+
+.row {
+  display: flex;
+  font-size: 1.6rem;
+}
+
+.header.long,
+.row .long {
+  width: 36rem;
+}
+.header.medium,
+.row .medium {
+  width: 13rem;
+}
+.header.short,
+.row .short {
+  width: 11rem;
+  text-align: center;
+}
+
+.row div {
+  padding: 0.5rem;
+  border: solid 1px #888;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.header.long,
+.header.medium,
+.header.short {
+  padding: 1rem 0;
+  font-weight: 700;
+}
+
+.report {
+  h3 {
+    font-size: 4rem;
+    font-weight: 300;
+    text-align: center;
+
+    &.danger {
+      background: #f003;
+      padding: 1rem;
+      border-radius: 5px;
+      margin: 4rem 0 2rem 0;
+    }
+  }
+
+  .args {
+    // background: #02b2;
+    & .arg-parcial,
+    & .arg-final {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      & div {
+        height: 22rem;
+        width: 25rem;
+        border: solid 1px #3333;
+        margin: 1rem 2rem;
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border-radius: 3px;
+        box-shadow: 0 2px 5px 1px #3331;
+
+        & p {
+          font-size: 4rem;
+          font-weight: 300;
+        }
+
+        & * {
+          margin: 1rem 0;
+        }
+      }
+    }
+
+    & .arg-final {
+      height: 22rem;
+      width: 60rem;
+      border: solid 1px #3333;
+      margin: 1rem 2rem;
+      padding: 1rem;
+      display: flex;
+      margin: 3rem auto;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      border-radius: 3px;
+      box-shadow: 0 2px 5px 1px #3331;
+      background: linear-gradient(135deg, #3330, #3336) #01a651;
+      color: #fff;
+
+      & * {
+        margin: 1rem 0;
+      }
+
+      & p {
+        font-size: 5rem;
+        font-weight: 300;
+      }
+    }
+  }
+}
+
+.row.red {
+  background: #f002;
+}
+.row.orange {
+  background: #f803;
+}
+.row.yellow-green {
+  background: #3f03;
+}
+.row.blue {
+  background: #03f3;
+}
+
+div.row div {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
