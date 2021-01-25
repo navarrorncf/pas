@@ -1,0 +1,23 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 110px;
+  padding: 1.5rem 3rem;
+  border-bottom: solid 1px #dddd;
+  position: relative;
+
+  h1 {
+    font-size: 5rem;
+    font-weight: 300;
+    padding-left: 10rem;
+  }
+
+  .logo-container {
+    height: 100%;
+
+    img {
+      height: 100%;
+    }
+  }
+}
